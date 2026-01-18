@@ -5,6 +5,12 @@
 
 ---
 
+## Demo (시연 영상, 사용법)
+
+[![Demo Video](https://img.youtube.com/vi/Y_0OazUQnik/0.jpg)](https://www.youtube.com/watch?v=Y_0OazUQnik)
+
+---
+
 ## Features
 
 - `/강화`, `/판매` 자동 입력 (클립보드 붙여넣기 기반)
