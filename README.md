@@ -7,7 +7,9 @@
 
 ## Demo (시연 영상, 사용법) (클릭하여 유튜브에서 재생)
 
-[![Demo Video](https://img.youtube.com/vi/Y_0OazUQnik/0.jpg)](https://www.youtube.com/watch?v=Y_0OazUQnik)
+<a href="https://www.youtube.com/watch?v=Y_0OazUQnik" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/Y_0OazUQnik/0.jpg" alt="Demo Video" />
+</a>
 
 ---
 
