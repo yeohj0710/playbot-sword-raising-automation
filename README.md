@@ -5,7 +5,7 @@
 
 ---
 
-## Demo (시연 영상, 사용법)
+## Demo (시연 영상, 사용법) (클릭하여 유튜브에서 재생)
 
 [![Demo Video](https://img.youtube.com/vi/Y_0OazUQnik/0.jpg)](https://www.youtube.com/watch?v=Y_0OazUQnik)
 
